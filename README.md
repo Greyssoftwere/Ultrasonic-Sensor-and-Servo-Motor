@@ -36,7 +36,7 @@ The activation distance was changed from 10 cm to 15 cm to observe the system re
 
 The servo angle was also tested using different values such as 180°.
 
-## simulation 
+## Simulation 
 <img width="1567" height="878" alt="Screenshot 2026-08-24 163051" src="https://github.com/user-attachments/assets/79036443-012e-4a0c-8c8d-8430c076d9b1" />
 
 
